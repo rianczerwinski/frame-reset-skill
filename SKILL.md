@@ -1,6 +1,7 @@
 ---
 name: frame-reset
 description: Recover from a rejected assistant-authored interpretive frame while preserving the user's actual request, evidence, and authority. Use only when the user explicitly says `FRAME RESET`, `/frame-reset`, "reset the frame," "discard that frame," "return to my exact words," or says the assistant keeps forcing the same rejected idea. Distinguishes frame invalidation from STOP, context clearing, ordinary correction, emotional interpretation, and tone or formatting changes.
+license: MIT
 ---
 
 # frame-reset
